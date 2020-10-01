@@ -1,0 +1,25 @@
+.banner {
+  background-image: url("../../images/kelli-mcclintock-8bH7yjcaFD4-unsplash.jpg");
+  background-size: cover;
+  background-position: center;
+  padding: 200px 0;
+}
+
+.banner h1 {
+  color: white;
+  text-shadow: 1px, 1px, 3px;
+}
+
+.banner p {
+  color: white;
+  opacity: .7;
+  font-size: 20px;
+}
+
+p {
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
